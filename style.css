@@ -28,14 +28,14 @@ body{
 }
 
 #nav-list a:hover{
-	background: #e7e7e7;
+	background: salmon;
 }
 .glyphicon{
 	margin-right: 5px;	
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 2px solid #61122f;
-	background: #ffffff;
+	background: #c73939;
 }
 
 .section-background-color{
@@ -100,10 +100,7 @@ body{
 		background-color: #29c65d;
         color: white;
 	}
-	/*.col-md-6, .col-lg-4{
-		width: 100%;
-		margin-top: 10px;
-	}*/
+
 
 	#beef{
 		margin: 10px 0px;
